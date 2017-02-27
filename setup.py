@@ -18,5 +18,6 @@ setup(
         #'hmac',
         #'socket',
         'python-dateutil',
+        'fuse-python'
     ]
 )
